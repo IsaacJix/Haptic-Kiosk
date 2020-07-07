@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/myScenes/rating experience ultrahaptics.unity
+    guid: 8812bec8bdbd22741864277d83508bed
+  - enabled: 1
+    path: Assets/myScenes/animal quiz ultrahaptics.unity
+    guid: 8fb849de7bec90c46acde79c7a72d847
+  - enabled: 0
+    path: Assets/myScenes/rating experience ipad.unity
+    guid: 84421357f859c45c1bd7eb4487574c4a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
