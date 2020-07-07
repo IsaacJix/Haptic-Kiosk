@@ -1,4 +1,4 @@
 # Haptic-Kiosk
-A prototype for a touch free haptic kiosk using ultraleap
+This project is a prototype for a touch free haptic kiosk using ultraleap
 
-This is our GitHub repository
+IsaacJix/Haptic-Kiosk is licensed under the Apache License 2.0
